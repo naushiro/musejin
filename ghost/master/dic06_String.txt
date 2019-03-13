@@ -1,0 +1,139 @@
+
+＃　-----------------------------------------------------
+＃　
+＃　shiori互換dll『里々（さとり）』用辞書
+＃　
+＃　メニューのボタン名とか。 
+＃　ネットワーク更新の際のデータ置き場とか。 
+＃　おすすめ／ポータルなURLの一覧とか。 
+＃　
+＃　-----------------------------------------------------
+
+
+
+＠portalrootbutton.caption
+きほん(&P)
+
+＠recommendrootbutton.caption
+ムーセのおすすめ(&R)
+
+＠kero.recommendbuttoncaption
+ジンのおすすめ(&R)
+
+＠updatebutton.caption
+オンラインアップデート(&U)
+ネットワーク更新(&U)
+
+＠vanishbutton.caption
+消滅(&F)
+アンインストール(&F)
+vanish(&F)
+
+＠readmebutton.caption
+現在のシェルについて(&R)
+取扱説明書(&R)
+Read me(&R)
+
+＠vanishbutton.visible
+1 
+＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
+
+
+＠homeurl
+
+＃ネットワーク更新時にアクセスするアドレス。
+＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
+＃例）http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
+
+＠username
+（ユーザ名） 
+
+＊コメント
+
+　URL一覧は…… 
+
+　１行目がサイト名 
+　２行目がジャンプ先URL 
+　３行目がバナーURL（省略可） 
+　４行目以降はジャンプ時に表示される会話文（省略可） 
+
+
+＃＊sakura.recommendsites
+＃作者のサイト。ここを使わずに、sakura.portalsitesにまとめてしまうのも一つの方法。 
+＃http://～ 
+＃バナー（あれば） 
+
+
+＊sakura.recommendsites
+作者サイト
+http://komakkamigwo.strikingly.com/
+：色々まとめてあるみたい。
+
+
+＊sakura.recommendsites
+作者Twitter
+https://twitter.com/komakkamigwo
+：（１）僕たちの話はここで！
+：……
+：（９）何かあったらここから言ってみてね～
+
+＊sakura.recommendsites
+お問い合わせ
+http://komakkamigwo.strikingly.com/#contact
+：おかしいところ見つけたらｗ５ここから言ってくれるとうれしいな！
+
+＊sakura.recommendsites
+-
+
+＊sakura.recommendsites
+青空文庫
+https://www.aozora.gr.jp/
+：（１）たくさんお話が読めるよ！
+
+＊sakura.recommendsites
+MapCrunch
+http://www.mapcrunch.com/
+：（９）旅した気分になってみる？
+
+＃＊sakura.portalsites
+＃-
+＃「-」といれることでリンクメニューに罫線を引くことができます。 
+
+
+＊kero.recommendsites
+《やぎについて》
+https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%AE
+：（２）ヤギはウシのなかま。
+：…………
+
+＊kero.recommendsites
+《やぎとふれあってみる》
+https://www.rokkosan.net/event-info/animal/goat-hureai/
+：（９）さわさわ。
+（１４）…ｗ５…ｗ５…ｗ５…ｗ９（１０）
+
+＊kero.recommendsites
+《笑えばいいと思うよ》
+https://www.bbc.com/japanese/45339078
+：（１）ニコ！
+ｗ５……（ス～ッ）
+
+＊sakura.portalsites
+伺かのあそびかたφ（FIRST GUIDEφ） 
+http://haka.sakura.ne.jp/guide/ 
+
+
+
+＃＊sakura.recommendsites
+＃-
+＃http://
+＃
+
+＃＊kero.recommendsites
+＃-
+＃http://
+＃ソロゴーストであれば、kero側は必要ないことも。
+
+＃　φは直後の文字の「特殊性」を無効化します。
+＃　ここでは「…」がそのままでは「…\w3」に置き換えられてしまうのを防いでます。
+＃　他にも置き換えたくないカッコ　（　などに使えます。

@@ -1,0 +1,124 @@
+charset,Shift_JIS
+
+
+descript
+{
+	version,1
+}
+
+surface0
+{
+	animation0.interval,random,3
+	animation0.pattern0,overlay,1000,50,0,0
+	animation0.pattern1,overlay,1001,50,0,0
+	animation0.pattern2,overlay,1000,50,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+
+surface1
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface2
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+
+surface3
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface4
+{	
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface5
+{
+	animation0.interval,random,3
+	animation0.pattern0,overlay,1000,50,0,0
+	animation0.pattern1,overlay,1001,50,0,0
+	animation0.pattern2,overlay,1000,50,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface6
+{
+	animation0.interval,random,3
+	animation0.pattern0,overlay,1000,50,0,0
+	animation0.pattern1,overlay,1001,50,0,0
+	animation0.pattern2,overlay,1000,50,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface7
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface8
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface9
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface10
+{	
+	animation1.interval,random,3
+	animation1.pattern0,overlay,13,50,0,0
+	animation1.pattern1,overlay,14,50,0,0
+	animation1.pattern2,overlay,13,50,0,0
+	animation1.pattern3,overlay,-1,50,0,0
+}
+
+
+surface31
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface32
+{
+        collision0,102,8,297,109 Head
+        collision1,126,73,244,186,Face
+}
+
+surface1000
+{
+	element0,base,main_blink1.png,0,0
+}
+
+surface1001
+{
+	element0,base,main_blink2.png,0,0
+}
+
+surface1002
+{
+        element0,base,main_howa.png,0,0
+}

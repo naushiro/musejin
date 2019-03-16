@@ -20,7 +20,6 @@ UKADOC Project：http://ssp.shillest.net/ukadoc/manual/index.html
 ポストと狛犬：http://soliton.sub.jp/satori/index.php?%A5%DD%A5%B9%A5%C8%A4%C8%B9%FD%B8%A4
 
 
-
 ムーセが読んでいる本はすべて青空文庫から引用させていただきました。
 https://www.aozora.gr.jp/
 編集者の方々、いつもありがとうございます。
